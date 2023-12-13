@@ -3,9 +3,11 @@ tags: vultor, species, fraktan
 ---
 ## Overview
 
-The Fraktans (Varakus) are a species of thermoregulating xenoreptilians that are native to the planet [[Vultor]]. Fraktans are found exclusively on the [[Mainland]] continent, and inhabit the majority of the landmass. 
+The Fraktans (Varakus) are a species of thermoregulating xenoreptilians that are native to the planet Vultor. Fraktans are found exclusively on the Mainland continent, and inhabit the majority of the landmass. 
 
 Fraktans have existed for many, many generations. Fraktan society is extensively tribal. Despite their large population and incredible feats as a sentient species, they reside in highly territorial enclaves, hunting and maiming each other more often than the prey they stalk.
+
+Fraktans speak the [[Overview|Varakan Language]].
 
 ----
 ## Anatomy
